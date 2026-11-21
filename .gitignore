@@ -4,7 +4,10 @@
 !.env.example
 node_modules/
 .venv/
+.npm-cache/
 __pycache__/
+.pytest_cache/
+*.egg-info/
 .claude/
 .cc-workbench/
 .next/

@@ -1,0 +1,1 @@
+00381nam a22001094500   001000700000008004000007020002200047245010800069246003300177650004700210650001400257ML-001230115s2023    nyu     b    001 0 eng d  a978-0-306-40615-710a多语种联合目录: bالنشر متعدد اللغات / cпод ред. Αθηνάς Παππά.11aMultilingual union catalogue 0aCatalogingaMultilingualism.vPeriodicals. 0aMetadata.
